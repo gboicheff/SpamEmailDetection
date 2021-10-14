@@ -4,14 +4,22 @@ This notebook compares the performance of different models (including a Gaussian
 # Steps to run:
 
 1. Install dependencies
-*sklearn
-*nltk
-*wordcloud
-*matplotlib
-*pandas
-*numpy
-*requests
-*tarfile
+
+* sklearn
+
+* nltk
+
+* wordcloud
+
+* matplotlib
+
+* pandas
+
+* numpy
+
+* requests
+
+* tarfile
 
 2.  Open the Jupyter Notebook and run everything (The code may take a few minutes to run)
 
